@@ -25,7 +25,8 @@ un lien vers votre maquette réalisée
 
 ### Partie 1 sur feuille : Prototype
 
-Sur la totalité d’une feuille A4 dessiner proprement le prototype du site ‘YouCode Courses’. Vous réalisez l’atelier avec le wireframe suivant qui vous sera expliqué ci-dessous :
+Sur la totalité d’une feuille A4 dessiner proprement le prototype du site ‘YouCode Courses’. Vous réalisez l’atelier avec le wireframe suivant qui vous sera expliqué dans ce lien :
+https://github.com/imanegannaoui/Maquetter-une-application/blob/main/Home.jpg
 
 ### Partie 2 : Site Maps
  
