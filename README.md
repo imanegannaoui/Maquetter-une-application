@@ -10,7 +10,7 @@ Vous allez reproduire une maquette relativement basique
 Mettre en pratique vos connaissances en création des maquettes graphiques des sites web.
 
 lien: 
-https://drive.google.com/open?id=1T70xrCvV5B9856Z2nWysNXHMSUF9OJxM 
+https://github.com/imanegannaoui/Maquetter-une-application/blob/main/Home.jpg
 
 ## Modalité de travail
 Travail individuel
